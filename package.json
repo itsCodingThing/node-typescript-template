@@ -14,7 +14,7 @@
     "dev": "concurrently -i -n \"TS,NODE\" -c \"bgMagenta.bold,bgCyan.bold\" \"npm run watch-ts\" \"npm run watch-node\" "
   },
   "engines": {
-    "node": "12.13.1"
+    "node": "16.3.0"
   },
   "dependencies": {
     "express": "^4.16.3"
